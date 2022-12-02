@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Application]">
+  <parameter name="config-file" value="Environment.conf"/>
+  <test thread-count="5" name="WalmartEcommerce(failed)">
+    <classes>
+      <class name="com.walmart.ecom.ui.tests.ToysSectionTests">
+        <methods>
+          <include name="beforeEachTest"/>
+          <include name="tearDown"/>
+          <include name="verifyItemsDisplayedByPrice" invocation-numbers="0"/>
+          <include name="loadClassConfigurations"/>
+        </methods>
+      </class> <!-- com.walmart.ecom.ui.tests.ToysSectionTests -->
+    </classes>
+  </test> <!-- WalmartEcommerce(failed) -->
+</suite> <!-- Failed suite [Application] -->
