@@ -18,6 +18,10 @@ public class WriteToExcel {
 
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
+		//write
+		//test
+		//learn
+		//eeee
 
         FileInputStream in  = new FileInputStream(new File("/Users/venkat/Documents/WalmarteCommerceDemo/walmarteCom/TestData/sample/TestData_Items.xlsx"));
         Workbook wb = new XSSFWorkbook(in);
