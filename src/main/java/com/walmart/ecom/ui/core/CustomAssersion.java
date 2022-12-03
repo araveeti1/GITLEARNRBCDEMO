@@ -20,6 +20,8 @@ import org.testng.collections.Lists;
 //Designing the CustomAssersion by extending the Assersion for readability
 
 public class CustomAssersion extends Assertion{
+	//123
+	//456
 	
 	
 	  private List<String> assert_messages = Lists.newArrayList();
