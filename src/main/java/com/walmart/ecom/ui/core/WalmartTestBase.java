@@ -33,6 +33,10 @@ public class WalmartTestBase {
 	public String aTestDataPath;
 
 	// Properties aConfFile;
+	//ppf
+	//cpp
+	//ic/
+	//fcc
 
 	public boolean isCloseBrowserForEachTest = true;
 	public boolean isBrowserAlive = false;
