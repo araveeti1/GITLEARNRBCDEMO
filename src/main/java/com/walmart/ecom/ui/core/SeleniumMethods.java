@@ -28,6 +28,10 @@ public class SeleniumMethods {
 	//ram
 	//sita
 	//laxman
+	//method
+	//test
+	//123
+	//456
 
 	// Creating the Generic Driver Instance.
 
