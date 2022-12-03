@@ -25,6 +25,10 @@ import org.slf4j.LoggerFactory;
 import com.google.common.base.Function;
 
 public class SeleniumMethods {
+	//method
+	//test
+	//123
+	//456
 
 	// Creating the Generic Driver Instance.
 
