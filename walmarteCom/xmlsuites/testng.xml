@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Application" parallel="false" >
+  <parameter name="config-file" value="Environment.conf"/>
+
+    <test name="WalmartEcommerce" preserve-order="true">
+        <classes>
+            <class name="com.walmart.ecom.ui.tests.ToysSectionTests">
+                <methods>
+                    <include name="verifyItemsDisplayedByPrice"/>
+                     <include name="verifyProductDetails"/>                   
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

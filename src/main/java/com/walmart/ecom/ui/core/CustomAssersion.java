@@ -22,7 +22,9 @@ import org.testng.collections.Lists;
 public class CustomAssersion extends Assertion{
 	//123
 	//456
-	
+	//ready
+	//123
+	//345
 	
 	  private List<String> assert_messages = Lists.newArrayList();
 
