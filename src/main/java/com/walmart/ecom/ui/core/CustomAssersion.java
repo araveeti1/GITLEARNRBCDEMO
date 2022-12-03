@@ -25,6 +25,7 @@ public class CustomAssersion extends Assertion{
 	//ready
 	//123
 	//345
+	//exect
 	
 	  private List<String> assert_messages = Lists.newArrayList();
 
