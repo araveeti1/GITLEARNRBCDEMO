@@ -37,6 +37,10 @@ public class WalmartTestBase {
 	//icc
 	//bcci
 	//cricket
+	//ppf
+	//cpp
+	//ic/
+	//fcc
 
 	public boolean isCloseBrowserForEachTest = true;
 	public boolean isBrowserAlive = false;
