@@ -10,6 +10,9 @@ public class ReadCSVFile {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		//read
+		//write
+		//test
 		
 		
 		//WebDriver diver  =new ChromeDriver();
