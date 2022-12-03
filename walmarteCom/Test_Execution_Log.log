@@ -1,0 +1,17 @@
+2019-01-19 01:04:30 INFO  HomePage:128 - Waiting for the element ::[[ChromeDriver: chrome on MAC (e3c0f34f70a5fb6981724959217b5a9c)] -> id: header-toys]
+2019-01-19 01:04:36 INFO  HomePage:50 - The element[[ChromeDriver: chrome on MAC (e3c0f34f70a5fb6981724959217b5a9c)] -> id: header-toys] Has been clicked successfully
+2019-01-19 01:04:36 INFO  CustomAssersion:59 - The Expected Messsage is:true and the Actual Message is +true
+2019-01-19 01:04:36 INFO  ToysSecetionPage:128 - Waiting for the element ::[[ChromeDriver: chrome on MAC (e3c0f34f70a5fb6981724959217b5a9c)] -> xpath: //span[text()='Outdoor Play']]
+2019-01-19 01:04:41 INFO  ToysSecetionPage:50 - The element[[ChromeDriver: chrome on MAC (e3c0f34f70a5fb6981724959217b5a9c)] -> xpath: //span[text()='Outdoor Play']] Has been clicked successfully
+2019-01-19 01:04:41 INFO  CustomAssersion:59 - The Expected Messsage is:true and the Actual Message is +true
+2019-01-19 01:04:41 INFO  ToysSecetionPage:128 - Waiting for the element ::[[ChromeDriver: chrome on MAC (e3c0f34f70a5fb6981724959217b5a9c)] -> xpath: //span[text()='Swimming Pools & Waterslides']]
+2019-01-19 01:04:47 INFO  ToysSecetionPage:50 - The element[[ChromeDriver: chrome on MAC (e3c0f34f70a5fb6981724959217b5a9c)] -> xpath: //span[text()='Swimming Pools & Waterslides']] Has been clicked successfully
+2019-01-19 01:04:47 INFO  CustomAssersion:59 - The Expected Messsage is:true and the Actual Message is +true
+2019-01-19 01:04:47 INFO  ToysSecetionPage:128 - Waiting for the element ::[[ChromeDriver: chrome on MAC (e3c0f34f70a5fb6981724959217b5a9c)] -> xpath: //span[text()='Easy Set Swimming Pools']]
+2019-01-19 01:04:49 INFO  ToysSecetionPage:50 - The element[[ChromeDriver: chrome on MAC (e3c0f34f70a5fb6981724959217b5a9c)] -> xpath: //span[text()='Easy Set Swimming Pools']] Has been clicked successfully
+2019-01-19 01:04:49 INFO  CustomAssersion:59 - The Expected Messsage is:true and the Actual Message is +true
+2019-01-19 01:04:49 INFO  ToysSecetionPage:128 - Waiting for the element ::[[ChromeDriver: chrome on MAC (e3c0f34f70a5fb6981724959217b5a9c)] -> link text: Price]
+2019-01-19 01:04:50 INFO  ToysSecetionPage:50 - The element[[ChromeDriver: chrome on MAC (e3c0f34f70a5fb6981724959217b5a9c)] -> link text: Price] Has been clicked successfully
+2019-01-19 01:04:50 INFO  CustomAssersion:59 - The Expected Messsage is:true and the Actual Message is +true
+2019-01-19 01:04:50 INFO  ToysSecetionPage:173 - The Ajax calls are completed!!!
+2019-01-19 01:04:51 ERROR CustomAssersion:52 - The Expected Messsage is:true and the Actual Message is +false
